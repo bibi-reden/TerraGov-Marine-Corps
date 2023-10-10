@@ -82,3 +82,6 @@
   dopamiin:
   - balance: the Judge now has a much longer fire delay, but its standard rounds are
       more powerful.
+2023-10-10:
+  Barnet2:
+  - balance: Big Red's Marshall disk spawn is now removed from all modulars.
